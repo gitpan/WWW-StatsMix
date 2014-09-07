@@ -1,0 +1,19 @@
+---
+abstract: 'Interface to StatsMix API.'
+author:
+  - 'Mohammad S Anwar <mohammad.anwar@yahoo.com>'
+build_requires: {}
+dynamic_config: 1
+generated_by: 'ExtUtils::MakeMaker version 6.66, CPAN::Meta::Converter version 2.141520'
+license: artistic_2
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: '1.4'
+name: WWW-StatsMix
+no_index:
+  directory:
+    - t
+    - inc
+resources:
+  repository: https://github.com/Manwar/WWW-StatsMix.git
+version: '0.01'
